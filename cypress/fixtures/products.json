@@ -1,0 +1,32 @@
+{
+    "Inventory": {
+      "name": "Inventory",
+      "Item": {
+        "SauceLabsBackpack": {
+          "name": "Sauce Labs Backpack",
+          "price": "29.99"
+        },
+        "SauceLabsBikeLight": {
+          "name": "Sauce Labs Bike Light",
+          "price": "9.99"
+        },
+        "SauceLabsBoltTShirt": {
+          "name": "Sauce Labs Bolt T-Shirt",
+          "price": "15.99"
+        },
+        "SauceLabsFleeceJacket": {
+            "name": "Sauce Labs Fleece Jacket",
+            "price": "49.99"
+          },
+          "SauceLabsOnesie": {
+            "name": "Sauce Labs Onesie",
+            "price": "7.99"
+          },
+          "TestallTheThings": {
+            "name": "Test.allTheThings() T-Shirt (Red)",
+            "price": "15.99"
+          }
+
+      }
+    }
+}
